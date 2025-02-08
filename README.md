@@ -15,6 +15,13 @@
   [![License Badge](https://img.shields.io/badge/LICENSE-CC-Test?style=for-the-badge&logo=https%3A%2F%2Ficons8.com%2Ficon%2F83178%2Fimage-file&labelColor=%23333333&color=%234361ee)](LICENSE)
 </div>
 
-<br>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/stock/hardware_2011_Nintendo_3DS_large_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/stock/hardware_2011_Nintendo_3DS_large_black.png">
+    <img src="assets/images/stock/hardware_2011_Nintendo_3DS_large_white.png" alt="Logo of X" width="300px">    
+  </picture>
+</div>
 
 # Overview
+Test 123 test 321 .
